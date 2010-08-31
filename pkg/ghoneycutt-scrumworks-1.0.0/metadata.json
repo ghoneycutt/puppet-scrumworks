@@ -1,0 +1,29 @@
+{
+  "checksums": {
+    "spec/spec_helper.rb": "ca19ec4f451ebc7fdb035b52eae6e909",
+    "CHANGELOG": "27572995ad63cc8be0329e83b1e44770",
+    "LICENSE": "6cca8dceab5cc9105740a975a6110322",
+    "README": "b435903f47dcb75c81e41bda8f8de764",
+    "tests/init.pp": "11a3441af73fe0017f1ba3140fd9cc0e",
+    "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "metadata.json": "d34d0b70aba36510fbc2df4e667479ef",
+    "files/setup.sql": "56a7db86c6d45ae5ead96334d57a460e",
+    "Modulefile": "40a2979a623f03d2e07f93ecae579203",
+    "manifests/init.pp": "89bff16ef9bcc8dc027827c411e1da05"
+  },
+  "version": "1.0.0",
+  "dependencies": [
+    {
+      "version_requirement": ">= 1.1.0",
+      "name": "ghoneycutt/generic"
+    },
+    {
+      "version_requirement": ">= 1.0.0",
+      "name": "ghoneycutt/mysql"
+    }
+  ],
+  "name": "ghoneycutt-scrumworks",
+  "types": [
+
+  ]
+}
